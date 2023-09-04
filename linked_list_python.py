@@ -158,22 +158,6 @@ class LinkedList:
       temp = after
     self.head = before
 
-
-
-
-
-
-    
-    
-
-
-  
-
-
-
-
-
-
 #Pop in linked list
 #Remove item in the end
 
