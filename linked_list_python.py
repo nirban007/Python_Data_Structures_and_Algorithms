@@ -185,3 +185,7 @@ new_linked_list.prepend(10)
 
 new_linked_list.reverse()
 new_linked_list.print_list()
+
+
+
+#Nirban Mitra Joy
